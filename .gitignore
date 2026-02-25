@@ -1,0 +1,6 @@
+# Runtime files created by the pre-market bot — never commit these
+run.log
+*.log
+.git_askpass.sh
+*.sh
+.DS_Store
